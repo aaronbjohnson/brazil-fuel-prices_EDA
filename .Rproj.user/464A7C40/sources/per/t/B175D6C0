@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566592623507.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "740015236",
+    "id" : "B175D6C0",
+    "lastKnownWriteTime" : 1569262620,
+    "last_content_update" : 1569262620197,
+    "path" : "C:/Users/Aaron/Dropbox/Documents/coding/data/gas-prices-in-brazil/litre-EDA.Rmd",
+    "project_path" : "litre-EDA.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "61,19",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566855100764.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD5E93D",
+    "lastKnownWriteTime" : 19140693561180271,
+    "last_content_update" : 1566855100764,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4245E768",
+        "caption" : "gas_prices",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gas_prices&cache_key=4245E768",
+        "displayedObservations" : 106823,
+        "environment" : "",
+        "object" : "gas_prices",
+        "preview" : 0,
+        "totalObservations" : 106823,
+        "variables" : 21
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
